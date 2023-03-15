@@ -1,4 +1,4 @@
-# Fine tuned GPT2 tranformer model
+# Fine tuned GPT2 transformer model
 
 This model is a fine-tuned version of GPT2 language model on a dataset containing thirteen Agatha Christies Books. It
 achieves the following results on the evaluation set: Training Loss: 2.99, Validation Loss: 3.01
